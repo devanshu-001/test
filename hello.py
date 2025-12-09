@@ -5,3 +5,7 @@ sum = a + b
 print("Sum =", sum)
 diff = a - b
 print("diff =", diff)
+sum = a * b
+print("product =", sum)
+diff = a / b
+print("division =", diff)
