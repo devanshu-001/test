@@ -3,3 +3,5 @@ b = int(input("Enter second number: "))
 
 sum = a + b
 print("Sum =", sum)
+diff = a - b
+print("diff =", diff)
